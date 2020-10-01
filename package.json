@@ -1,0 +1,24 @@
+{
+  "name": "fullstack0",
+  "version": "1.0.0",
+  "description": "coursera full stack course",
+  "main": "index.html",
+  "scripts": {
+	  "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+	  "lite": "lite=server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freedevgrp/test.git"
+  },
+  "author": "amadou goorm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/freedevgrp/test/issues"
+  },
+  "homepage": "https://github.com/freedevgrp/test#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
